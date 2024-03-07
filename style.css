@@ -1,0 +1,17 @@
+:root{
+--purple :#ad9fd5;
+--black : #000000
+}
+
+body{
+ background-color: var (--black);
+color: var(--purple);
+}
+
+img{
+    width: 10%;
+}
+
+header{
+    display: flex;
+}
